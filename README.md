@@ -10,7 +10,7 @@
 
 *DURATION*:4 WEEKS
 
-*MENTOR*:NEELA SANTHOSH
+*MENTOR*:NEELA SANTHOSH KUMAR
 
 *PROJECT DESCRIPTION*:This project is a front-end interface for an E-Learning Platform designed to create an engaging, user-friendly environment for students to explore, track, and complete online courses. Built with React.js and styled using Tailwind CSS, this platform demonstrates modern front-end development practices, clean design principles, and smooth user interaction flows.
 
