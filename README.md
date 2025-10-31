@@ -48,3 +48,18 @@ Its modular architecture allows new features such as quiz integration, certifica
 *CONCLUSION*:
 
 The E-Learning Platform UI reflects a practical understanding of modern front-end design, clean coding practices, and real-world project implementation using React + Tailwind CSS. It showcases how web technologies can merge design and functionality to create impactful digital learning environments—demonstrating a strong foundation for both professional and academic software projects.
+
+*OUTPUT*:
+<img width="901" height="724" alt="Image" src="https://github.com/user-attachments/assets/b93dbb1b-546a-424d-aa75-a45107c6ecbb" />
+
+<img width="854" height="704" alt="Image" src="https://github.com/user-attachments/assets/ef43dfed-7b4d-4b13-93ee-687ecc83ae8b" />
+
+<img width="1842" height="816" alt="Image" src="https://github.com/user-attachments/assets/3e90c089-af40-4dad-b54f-8f74b09724bf" />
+
+<img width="1835" height="811" alt="Image" src="https://github.com/user-attachments/assets/9505be93-9f22-4ab4-b889-16456c190519" />
+
+<img width="1228" height="802" alt="Image" src="https://github.com/user-attachments/assets/151b6f68-fb1a-47e5-a7e6-d9a4d4939e37" />
+
+<img width="1191" height="775" alt="Image" src="https://github.com/user-attachments/assets/8b9d62ac-e7ff-437c-bbd0-9aeb81004051" />
+
+<img width="1183" height="781" alt="Image" src="https://github.com/user-attachments/assets/3e0f5ee2-0a4d-40bb-83e6-ac449812a868" />
